@@ -2,10 +2,10 @@ Just forc build & cargo test
 
 ```
 forc --version
-forc 0.48.1
+forc 0.49.1
 ```
 
 ```
 fuel-core --version
-fuel-core 0.21.0
+fuel-core 0.22.0
 ```
